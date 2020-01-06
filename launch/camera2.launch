@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <launch>
   <!-- Command-line arguments -->
-  <arg name="ns" default="ifm3d2"/>
-  <arg name="nn" default="camera2"/>
+  <arg name="ns" default="ifmo3x"/>
+  <arg name="nn" default="ifm0"/>
   <arg name="ip" default="192.168.0.70"/>
   <arg name="xmlrpc_port" default="80"/>
   <arg name="password" default=""/>
